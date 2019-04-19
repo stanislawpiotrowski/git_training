@@ -1,0 +1,9 @@
+[20190419 15:56]
+Pierwszy wpis w pliku plik1.txt
+
+
+
+
+
+[20190419 16:09]
+Trzecia modyfikacja kodu.
