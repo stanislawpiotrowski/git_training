@@ -1,1 +1,5 @@
 To jest nowy plik.
+
+
+
+Dalsza praca z plikiem 2 (po testowaniu poleceñ revert oraz reset - w tym hard reset)
