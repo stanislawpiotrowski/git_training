@@ -1,2 +1,8 @@
 test
+<<<<<<< Updated upstream
 test3TTTEEESSTTT
+=======
+
+
+test2test
+>>>>>>> Stashed changes
